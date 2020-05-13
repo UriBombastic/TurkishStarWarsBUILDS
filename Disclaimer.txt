@@ -1,0 +1,9 @@
+This "game" is based off the 1982 film "Dünyayi Kurtaran Adam (The Man Who Saved The World) by Çetin Inanç,
+Better known as "Turkish Star Wars" for its use of footage from the Star Wars movies.
+To pay homage to the original movie, this game utilizes pretty much whatever 3D models and audio clips
+I could find for free online, including music from other video games and other forms of media.
+Therefore, I am claiming no ownership over any of the models, sound effects, or ESPECIALLY music 
+Utilized in this, even though quite a bit is modified to fit my vision. 
+All sounds, images, and 3D models used from external sources are cited in Credits.txt.
+This game is purely for entertainment purposes, 
+Honestly mostly for myself but if you get a kick out of it too that would be ideal.
