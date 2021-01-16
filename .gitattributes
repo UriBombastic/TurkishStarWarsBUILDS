@@ -1,7 +1,0 @@
-Credits.txt filter=lfs diff=lfs merge=lfs -text
-Disclaimer.txt filter=lfs diff=lfs merge=lfs -text
-Turkish[[:space:]]Star[[:space:]]Wars.exe filter=lfs diff=lfs merge=lfs -text
-UnityCrashHandler32.exe filter=lfs diff=lfs merge=lfs -text
-UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
-Turkish[[:space:]]Star[[:space:]]Wars_Data filter=lfs diff=lfs merge=lfs -text
-*sharedasset* filter=lfs diff=lfs merge=lfs -text
